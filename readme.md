@@ -5,8 +5,6 @@ Welcome to WDI 4. This repository contains information and materials specific to
 # Important links
 - [Class Slack](https://miskacademy.slack.com/messages/CFT2TMK6F)
 - [Exit Ticket](https://docs.google.com/forms/d/1Yp9xnqkR0PvTSnwavMMymtsfxLtqKDgCZ_xd9SSsMxI/viewform)
-- [WDI Mindmap](https://coggle.it/diagram/V95gwA7atZoJ3a52)
-- [Flowchart Maker](https://code2flow.com/)
 
 
 ## Instructional Team
