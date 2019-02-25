@@ -47,7 +47,8 @@ The typically daily format is as follows.
 #### Students
 
 
-| No. |       Student        |Project 1 Repo | Project 2 Repo |
+| No. | Student|Project 1 Repo | Project 2 Repo |
+--- | --- | --- | --
 | 1   | Abdulaziz Alshemimri | ---           |---             | 
 | 2   |  Abdulnaser Alharbi  | ---           |---             |  
 | 3   |  Abdulrahman Abood   | ---           |---             |  
