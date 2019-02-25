@@ -16,7 +16,7 @@ Welcome to WDI 4. This repository contains information and materials specific to
 - **Marc Wright** (Lead Instructor)
   - [marc@generalassemb.ly ](mailto:marc@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline)
-- **Alanoud Alrasheed** (Facilitator)
+- **Alanoud Alrasheed** (Instructional Associate)
   - [alanoud.alrasheed@generalassemb.ly](mailto:alanoud.alrasheed@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline) / Tuesday 5pm - 7pm (Online)
 
@@ -62,10 +62,10 @@ The typically daily format is as follows.
 | 11  |   Lamya Altuwairqi   | ---           |---             |  
 | 12  |     Maram AlShalhoub | ---           |---             |  
 | 13  |     Meshal Alqahtani | ---           |---             |  
-| 14  |     mohammed alhamad | ---           |---             |  
+| 14  |     Mohammed Alhamad | ---           |---             |  
 | 15  |   Mortaja Alqassab   | ---           |---             |  
 | 16  |      Muhammad Hakami | ---           |---             |  
-| 17  |      munera alhazza  | ---           |---             |  
+| 17  |      Munera Alhazza  | ---           |---             |  
 | 18  |     Nora Alkhunifer  | ---           |---             |  
 | 19  |      Noura AlHindi   | ---           |---             |  
 | 20  |     Omar AlArifi     | ---           |---             |  
@@ -74,6 +74,7 @@ The typically daily format is as follows.
 | 23  |  Yasir Almuhtrish    | ---           |---             |  
 | 24  |     Yasser Alamri    | ---           |---             |  
 | 25  |    Sarah Abuhaimed   | ---           |---             |
+
 
 | Group. | Student |Project 3 Repo |
 |---     | ---     | ---           |
