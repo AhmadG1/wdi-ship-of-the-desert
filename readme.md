@@ -46,9 +46,33 @@ The typically daily format is as follows.
 
 #### Students
 
-| No. | Student |Project 1 Repo | Project 2 Repo |
-|---  | ---     | ---           |---             |  
 
+| No. |       Student        |Project 1 Repo | Project 2 Repo |
+| 1   | Abdulaziz Alshemimri | ---           |---             | 
+| 2   |  Abdulnaser Alharbi  | ---           |---             |  
+| 3   |  Abdulrahman Abood   | ---           |---             |  
+| 4   |     Aceel AlArifi    | ---           |---             |   
+| 5   |    Alhanouf Alothman | ---           |---             |  
+| 6   |     Ali	Alyami       | ---           |---             |  
+| 7   |      Amani Alamri    | ---           |---             |  
+| 8   |   AmeerahAlshihry    | ---           |---             |  
+| 9   |     Areej Ramzi      | ---           |---             |  
+| 10  |     Khuzam Shubbar   | ---           |---             |  
+| 11  |   Lamya Altuwairqi   | ---           |---             |  
+| 12  |     Maram AlShalhoub | ---           |---             |  
+| 13  |     Meshal Alqahtani | ---           |---             |  
+| 14  |     mohammed alhamad | ---           |---             |  
+| 15  |   Mortaja Alqassab   | ---           |---             |  
+| 16  |      Muhammad Hakami | ---           |---             |  
+| 17  |      munera alhazza  | ---           |---             |  
+| 18  |     Nora Alkhunifer  | ---           |---             |  
+| 19  |      Noura AlHindi   | ---           |---             |  
+| 20  |     Omar AlArifi     | ---           |---             |  
+| 21  |     Reema Alrayes    | ---           |---             |  
+| 22  |     Rehab Alsaadoun  | ---           |---             |  
+| 23  |  Yasir Almuhtrish    | ---           |---             |  
+| 24  |     Yasser Alamri    | ---           |---             |  
+| 25  |    Sarah Abuhaimed   | ---           |---             |
 
 | Group. | Student |Project 3 Repo |
 |---     | ---     | ---           |
