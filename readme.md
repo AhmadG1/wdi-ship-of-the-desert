@@ -122,7 +122,7 @@ The typically daily format is as follows.
 
 | Unit |Title/Url |
 --- | --- 
-|3|[]()|
+|3|[Ruby Arrays + Loops](https://github.com/ship-of-the-desert/hw_week_07_day_01_Ruby_Loops)|
 
 ---
 
@@ -144,9 +144,9 @@ The typically daily format is as follows.
 | 11  |     Mohammed Alhamad | [Tic Tac Toe]()           |---             |  
 | 12  |   Mortaja Alqassab   | [Timeline](https://github.com/mort8Q/timeline-inventions)           |[E-commerce](https://github.com/mort8Q/watermelon.git)             |  
 | 13  |      Muhammad Hakami | [Tic Tac Toe](https://github.com/MuhammadHakami/muhammadhakami.github.io)           |[Portfolio](https://github.com/MuhammadHakami/profile)             |  
-| 14  |      Munera Alhazza  | [Tic Tac Toe]()           |---             |  
+| 14  |      Munera Alhazza  | [Tic Tac Toe](https://github.com/muneraabdul/muneraabdul.github.io)           |[Events](https://github.com/muneraabdul/Events)            |  
 | 15  |     Nora Alkhunifer  | [Tic Tac Toe](https://github.com/norahX3X/Project-1-io)           |[Plants Info](https://github.com/norahX3X/Cactus2)             |  
-| 16  |      Noura AlHindi   | [Tic Tac Toe]()           |---             |  
+| 16  |      Noura AlHindi   | [Tic Tac Toe](https://github.com/Noura-alhindi/Noura-alhindi.github.io)           |[Recipes](https://github.com/Noura-alhindi/Food_Recipes)            |  
 | 17  |     Omar AlArifi     | [Tic Tac Toe](https://github.com/iomaraa/iomaraa.github.io)           |[International News](https://github.com/iomaraa/PaperRocket)             |  
 | 18  |     Reema Alrayes    | [Tic Tac Toe](https://github.com/Reemarayes/reemarayes.github.io)           |[Qibla](https://github.com/Reemarayes/project_two)            |  
 | 19  |     Rehab Alsaadoun  | [Tic Tac Toe]()           |---             |  
