@@ -126,22 +126,22 @@ The typically daily format is as follows.
 
 ---
 
-#### Students Projects
+### Students Projects
 
 
 | No. | Student|Project 1 Repo | Project 2 Repo | Project 3 Repo | Project 4 Repo |
 --- | --- | --- | -- | -- | --
 | 1   | Abdulaziz Alshemimri | [Tic Tac Toe](https://github.com/Alshemimri/TicTacToe)           |[Goodmorning App](https://github.com/Alshemimri/GoodMorningApp)            | 
-| 2   |     Aceel AlArifi    | [Tic Tac Toe]()           |---             |   
+| 2   |     Aceel AlArifi    | [Tic Tac Toe](https://github.com/AceelAlArifi/Aceelalarifi.github.io)           |[Garage](https://github.com/AceelAlArifi/Garage-Record)            |   
 | 3   |    Alhanouf Alothman | [Tic Tac Toe](https://github.com/alhanoufoth33/alhanoufoth33.github.io)           |[Recipes](https://github.com/alhanoufoth33/recipes)             |  
 | 4   |      Amani Alamri    | [Tic Tac Toe](https://github.com/AmaniAlamri/amanialamri.github.io)           |[Near Me](https://github.com/amanialamri/near-app/)             |  
 | 5   |   Ameerah Alshihry    | [Tic Tac Toe](https://github.com/Ameerahalshihry/ameerahalshihry.gitHub.io)           |[Books](https://github.com/Ameerahalshihry/project_2)            |  
-| 6   |     Areej Ramzi      | [Tic Tac Toe]()           |---             |  
+| 6   |     Areej Ramzi      | [Tic Tac Toe](https://github.com/AreejRamzi/areejramzi.github.io)           |---             |  
 | 7   |     Khuzam Shubbar   | [Minesweeper](https://github.com/khuzamas/project1)           |[Disney](https://github.com/khuzamas/project2)             |  
-| 8   |   Lamya Altuwairqi   | [Tic Tac Toe]()           |---             |  
+| 8   |   Lamya Altuwairqi   | [Tic Tac Toe](https://github.com/lamyahamid/TIC-TAC-TOE)           |---             |  
 | 9   |     Maram AlShalhoub | [Tic Tac Toe](https://github.com/maramalshalhoub/maramalshalhoub.github.io)           |[Architecture](https://github.com/maramalshalhoub/Architecture/)             |  
-| 10  |     Meshal Alqahtani | [Tic Tac Toe]()           |---             |  
-| 11  |     Mohammed Alhamad | [Tic Tac Toe]()           |---             |  
+| 10  |     Meshal Alqahtani | [Tic Tac Toe](https://github.com/Meshal505/Meshal505.github.io)           |[Advice](https://github.com/Meshal505/project2)             |  
+| 11  |     Mohammed Alhamad | [Tic Tac Toe](https://github.com/alhammadmh/alhammadmh.github.io)           |[Expenses Calculator](https://github.com/alhammadmh/project2)            |  
 | 12  |   Mortaja Alqassab   | [Timeline](https://github.com/mort8Q/timeline-inventions)           |[E-commerce](https://github.com/mort8Q/watermelon.git)             |  
 | 13  |      Muhammad Hakami | [Tic Tac Toe](https://github.com/MuhammadHakami/muhammadhakami.github.io)           |[Portfolio](https://github.com/MuhammadHakami/profile)             |  
 | 14  |      Munera Alhazza  | [Tic Tac Toe](https://github.com/muneraabdul/muneraabdul.github.io)           |[Events](https://github.com/muneraabdul/Events)            |  
