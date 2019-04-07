@@ -123,14 +123,15 @@ The typically daily format is as follows.
 | Unit |Title/Url |
 --- | --- 
 |3|[Ruby Arrays + Loops](https://github.com/ship-of-the-desert/hw_week_07_day_01_Ruby_Loops)|
+|3|[Ruby MTA](https://github.com/ship-of-the-desert/hw_week_07_day_02_ruby_MTA)|
 
 ---
 
 ### Students Projects
 
 
-| No. | Student|Project 1 Repo | Project 2 Repo | Project 3 Repo | Project 4 Repo |
---- | --- | --- | -- | -- | --
+| No. | Student|Project 1 Repo | Project 2 Repo | Project 4 Repo |
+--- | --- | --- | -- | -- 
 | 1   | Abdulaziz Alshemimri | [Tic Tac Toe](https://github.com/Alshemimri/TicTacToe)           |[Goodmorning App](https://github.com/Alshemimri/GoodMorningApp)            | 
 | 2   |     Aceel AlArifi    | [Tic Tac Toe](https://github.com/AceelAlArifi/Aceelalarifi.github.io)           |[Garage](https://github.com/AceelAlArifi/Garage-Record)            |   
 | 3   |    Alhanouf Alothman | [Tic Tac Toe](https://github.com/alhanoufoth33/alhanoufoth33.github.io)           |[Recipes](https://github.com/alhanoufoth33/recipes)             |  
@@ -153,6 +154,17 @@ The typically daily format is as follows.
 | 20  |  Yasir Almuhtrish    | [Hoxin](https://github.com/yasser9947/yasser9947.github.io)           |[Trivia Game](https://github.com/yasser9947/pr2/)             |  
 | 21  |    Sarah Abuhaimed   | [Tic Tac Toe]()           |[Parking Lot](https://github.com/SarahAbuhaimed/ParkingLot)             |
 
+#### Group Project 
+
+| No. | Student One |Student Two| Student Three | Project Repo |
+--- | --- | --- | -- | --
+1 | --- | --- | -- | --
+2 | --- | --- | -- | --
+3 | --- | --- | -- | --
+4 | --- | --- | -- | --
+5 | --- | --- | -- | --
+6 | --- | --- | -- | --
+7 | --- | --- | -- | --
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
