@@ -39,14 +39,55 @@ The typically daily format is as follows.
 
 ## Unit 1
 
+#### Week One
+
+| Day |Lesson |
+--- | --- 
+
+#### Week Two
+
+| Day |Lesson |
+--- | --- 
+
 ---
 ## Unit 2
+
+#### Week Four
+
+| Day |Lesson |
+--- | --- 
+
+#### Week Five
+
+| Day |Lesson |
+--- | --- 
 
 ---
 ## Unit 3
 
+#### Week Seven
+
+| Day |Lesson |
+--- | --- 
+
+#### Week Eight
+
+| Day |Lesson |
+--- | --- 
+
 ---
 ## Unit 4
+
+#### Week Ten
+
+| Day |Lesson |
+--- | --- 
+
+#### Week Eleven
+
+| Day |Lesson |
+--- | --- 
+
 ---
 
 ### [Warmups](https://github.com/ship-of-the-desert/warmups)
@@ -66,6 +107,9 @@ The typically daily format is as follows.
 | 1 |[Flexbox](https://github.com/ship-of-the-desert/hw_week_02_day_02_flexbox)|
 | 1 |[DOM](https://github.com/ship-of-the-desert/hw_week_02_day_03_DOM)|
 | 1 |[jQuery](https://github.com/ship-of-the-desert/hw-week_02-day_04-jquery)|
+
+| Unit |Title/Url |
+--- | --- 
 | 2 |[Responsive CSS](https://github.com/ship-of-the-desert/hw_week_04_day_01_Responsive_CSS)|
 | 2 |[JS Classes](https://github.com/ship-of-the-desert/hw_week_04_day_02_Classes)|
 | 2 |[JS Modules](https://github.com/ship-of-the-desert/hw_week_04_day_3_modules)|
@@ -75,6 +119,9 @@ The typically daily format is as follows.
 | 2 |[React Film pt.2](https://github.com/ship-of-the-desert/week_05_states_react_all/blob/master/08-film-2-state.md)|
 | 2 |[React Film pt.3](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios/blob/master/07-film-3-unidirectional.md)|
 | 2 |[React Film pt.4](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios/blob/master/08-film-4-apis.md)|
+
+| Unit |Title/Url |
+--- | --- 
 |3|[]()|
 
 ---
