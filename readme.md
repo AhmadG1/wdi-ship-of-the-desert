@@ -150,21 +150,21 @@ The typically daily format is as follows.
 | 16  |      Noura AlHindi   | [Tic Tac Toe](https://github.com/Noura-alhindi/Noura-alhindi.github.io)           |[Recipes](https://github.com/Noura-alhindi/Food_Recipes)            |  
 | 17  |     Omar AlArifi     | [Tic Tac Toe](https://github.com/iomaraa/iomaraa.github.io)           |[International News](https://github.com/iomaraa/PaperRocket)             |  
 | 18  |     Reema Alrayes    | [Tic Tac Toe](https://github.com/Reemarayes/reemarayes.github.io)           |[Qibla](https://github.com/Reemarayes/project_two)            |  
-| 19  |     Rehab Alsaadoun  | [Tic Tac Toe]()           |---             |  
+| 19  |     Rehab Alsaadoun  | [Tic Tac Toe](https://github.com/rehabsaadoun/rehabsaadoun.github.io)           |---             |  
 | 20  |  Yasir Almuhtrish    | [Hoxin](https://github.com/yasser9947/yasser9947.github.io)           |[Trivia Game](https://github.com/yasser9947/pr2/)             |  
-| 21  |    Sarah Abuhaimed   | [Tic Tac Toe]()           |[Parking Lot](https://github.com/SarahAbuhaimed/ParkingLot)             |
+| 21  |    Sarah Abuhaimed   | [Tic Tac Toe](https://github.com/SarahAbuhaimed/project1)           |[Parking Lot](https://github.com/SarahAbuhaimed/ParkingLot)             |
 
-#### Group Project 
+#### Group Projects 
 
 | No. | Student One |Student Two| Student Three | Project Repo |
 --- | --- | --- | -- | --
-1 | --- | --- | -- | --
-2 | --- | --- | -- | --
-3 | --- | --- | -- | --
-4 | --- | --- | -- | --
-5 | --- | --- | -- | --
-6 | --- | --- | -- | --
-7 | --- | --- | -- | --
+1 | Ameerah | Mortaja | Norah AlHindi | --
+2 | Aceel | Maram | Yasir | --
+3 | Munera | Abdulaziz | Lamya | --
+4 | Omar | Reema | Muhammad Hakami | --
+5 | Sarah | Mohammed Alhamad | Amani | --
+6 | Meshal | Khuzam |Alhanouf | --
+7 | Areej | Rehab | Nora Alkhunifer | --
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
