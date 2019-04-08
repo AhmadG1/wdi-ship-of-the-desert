@@ -139,7 +139,7 @@ The typically daily format is as follows.
 | 5   |   Ameerah Alshihry    | [Tic Tac Toe](https://github.com/Ameerahalshihry/ameerahalshihry.gitHub.io)           |[Books](https://github.com/Ameerahalshihry/project_2)            |  
 | 6   |     Areej Ramzi      | [Tic Tac Toe](https://github.com/AreejRamzi/areejramzi.github.io)           |---             |  
 | 7   |     Khuzam Shubbar   | [Minesweeper](https://github.com/khuzamas/project1)           |[Disney](https://github.com/khuzamas/project2)             |  
-| 8   |   Lamya Altuwairqi   | [Tic Tac Toe](https://github.com/lamyahamid/TIC-TAC-TOE)           |---             |  
+| 8   |   Lamya Altuwairqi   | [Tic Tac Toe](https://github.com/lamyahamid/TIC-TAC-TOE)           |[Events](https://github.com/lamyahamid/Events)             |  
 | 9   |     Maram AlShalhoub | [Tic Tac Toe](https://github.com/maramalshalhoub/maramalshalhoub.github.io)           |[Architecture](https://github.com/maramalshalhoub/Architecture/)             |  
 | 10  |     Meshal Alqahtani | [Tic Tac Toe](https://github.com/Meshal505/Meshal505.github.io)           |[Advice](https://github.com/Meshal505/project2)             |  
 | 11  |     Mohammed Alhamad | [Tic Tac Toe](https://github.com/alhammadmh/alhammadmh.github.io)           |[Expenses Calculator](https://github.com/alhammadmh/project2)            |  
