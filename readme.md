@@ -156,15 +156,14 @@ The typically daily format is as follows.
 
 #### Group Projects 
 
-| No. | Student One |Student Two| Student Three | Project Repo |
---- | --- | --- | -- | --
+| No. | Student One |Student Two| Student Three | Student Four | Project Repo |
+--- | --- | --- | -- | -- | --
 1 | Ameerah | Mortaja | Norah AlHindi | --
 2 | Aceel | Maram | Yasir | --
-3 | Munera | Abdulaziz | Lamya | --
-4 | Omar | Reema | Muhammad Hakami | --
+3 | Munera | Abdulaziz | Lamya |Nora Alkhunifer| 
+4 | Omar | Reema | Muhammad Hakami | Rehab
 5 | Sarah | Mohammed Alhamad | Amani | --
 6 | Meshal | Khuzam |Alhanouf | --
-7 | Areej | Rehab | Nora Alkhunifer | --
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
