@@ -90,7 +90,44 @@ The typically daily format is as follows.
 
 ---
 
-### [Warmups](https://github.com/ship-of-the-desert/warmups)
+### Warmups
+
+| Week |Day|Title/Url |
+--- | --- | ---
+1|3|[Raindrops](https://github.com/ship-of-the-desert/warmups/tree/master/week_01/day_03)
+1|4|[Leap Year](https://github.com/ship-of-the-desert/warmups/tree/master/week_01/day_04)
+1|5|[Count of positives / sum of negatives](https://github.com/ship-of-the-desert/warmups/tree/master/week_01/day_05)
+
+| Week |Day|Title/Url |
+--- | --- | ---
+2|1|[Scrabble](https://github.com/ship-of-the-desert/warmups/tree/master/week_02/day_01)
+2|2|[CSS Mockup](https://github.com/ship-of-the-desert/warmups/tree/master/week_02/day_02)
+2|3|[Positioning Practice](https://github.com/ship-of-the-desert/warmups/tree/master/week_02/day_03)
+2|4|[MTA](https://github.com/ship-of-the-desert/warmups/tree/master/week_02/day_04)
+2|5|[Anagram Detector](https://github.com/ship-of-the-desert/warmups/tree/master/week_02/day_05)
+
+| Week |Day|Title/Url |
+--- | --- | ---
+4|1|[99 bottles of coke](https://github.com/ship-of-the-desert/warmups/tree/master/week_04/day_01)
+4|2|[Responsive Design](https://github.com/ship-of-the-desert/warmups/tree/master/week_04/day_02)
+4|3|[Robot Factory](https://github.com/ship-of-the-desert/warmups/tree/master/week_04/day_03)
+4|4|[The Sieve of Eratosthenes](https://github.com/ship-of-the-desert/warmups/tree/master/week_04/day_04)
+4|5|[Hamlet](https://github.com/ship-of-the-desert/warmups/tree/master/week_04/day_05)
+
+| Week |Day|Title/Url |
+--- | --- | ---
+5|1|[Tamagotchi](https://github.com/ship-of-the-desert/warmups/tree/master/week_05/day_01)
+5|2|[JS Review Kahoot!](https://create.kahoot.it/details/js-review/80aaad1b-62e2-4dda-850d-3f279e2eb769)
+5|3|[Harry Potter](https://github.com/ship-of-the-desert/warmups/tree/master/week_05/day_03)
+5|4|[React State Practice](https://github.com/ship-of-the-desert/warmups/tree/master/week_05/day_04)
+5|5|[React Kahoot!](https://create.kahoot.it/details/react-js/8c8d3feb-faf7-48af-973b-dd1e8e41df7a)
+
+| Week |Day|Title/Url |
+--- | --- | ---
+7|2|[Ruby Anagram Detector](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_02)
+7|3|[Fallout Hacking Game](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_03)
+7|4|[Stickers Shop](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_04)
+7|5|[]()
 
 ---
 
