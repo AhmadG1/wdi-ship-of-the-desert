@@ -124,6 +124,7 @@ The typically daily format is as follows.
 --- | --- 
 |3|[Ruby Arrays + Loops](https://github.com/ship-of-the-desert/hw_week_07_day_01_Ruby_Loops)|
 |3|[Ruby MTA](https://github.com/ship-of-the-desert/hw_week_07_day_02_ruby_MTA)|
+|3|[Ruby Classes](https://github.com/ship-of-the-desert/hw_week_07_day_03_ruby_Classes)|
 
 ---
 
@@ -137,22 +138,21 @@ The typically daily format is as follows.
 | 3   |    Alhanouf Alothman | [Tic Tac Toe](https://github.com/alhanoufoth33/alhanoufoth33.github.io)           |[Recipes](https://github.com/alhanoufoth33/recipes)             |  
 | 4   |      Amani Alamri    | [Tic Tac Toe](https://github.com/AmaniAlamri/amanialamri.github.io)           |[Near Me](https://github.com/amanialamri/near-app/)             |  
 | 5   |   Ameerah Alshihry    | [Tic Tac Toe](https://github.com/Ameerahalshihry/ameerahalshihry.gitHub.io)           |[Books](https://github.com/Ameerahalshihry/project_2)            |  
-| 6   |     Areej Ramzi      | [Tic Tac Toe](https://github.com/AreejRamzi/areejramzi.github.io)           |---             |  
-| 7   |     Khuzam Shubbar   | [Minesweeper](https://github.com/khuzamas/project1)           |[Disney](https://github.com/khuzamas/project2)             |  
-| 8   |   Lamya Altuwairqi   | [Tic Tac Toe](https://github.com/lamyahamid/TIC-TAC-TOE)           |[Events](https://github.com/lamyahamid/Events)             |  
-| 9   |     Maram AlShalhoub | [Tic Tac Toe](https://github.com/maramalshalhoub/maramalshalhoub.github.io)           |[Architecture](https://github.com/maramalshalhoub/Architecture/)             |  
-| 10  |     Meshal Alqahtani | [Tic Tac Toe](https://github.com/Meshal505/Meshal505.github.io)           |[Advice](https://github.com/Meshal505/project2)             |  
-| 11  |     Mohammed Alhamad | [Tic Tac Toe](https://github.com/alhammadmh/alhammadmh.github.io)           |[Expenses Calculator](https://github.com/alhammadmh/project2)            |  
-| 12  |   Mortaja Alqassab   | [Timeline](https://github.com/mort8Q/timeline-inventions)           |[E-commerce](https://github.com/mort8Q/watermelon.git)             |  
-| 13  |      Muhammad Hakami | [Tic Tac Toe](https://github.com/MuhammadHakami/muhammadhakami.github.io)           |[Portfolio](https://github.com/MuhammadHakami/profile)             |  
-| 14  |      Munera Alhazza  | [Tic Tac Toe](https://github.com/muneraabdul/muneraabdul.github.io)           |[Events](https://github.com/muneraabdul/Events)            |  
-| 15  |     Nora Alkhunifer  | [Tic Tac Toe](https://github.com/norahX3X/Project-1-io)           |[Plants Info](https://github.com/norahX3X/Cactus2)             |  
-| 16  |      Noura AlHindi   | [Tic Tac Toe](https://github.com/Noura-alhindi/Noura-alhindi.github.io)           |[Recipes](https://github.com/Noura-alhindi/Food_Recipes)            |  
-| 17  |     Omar AlArifi     | [Tic Tac Toe](https://github.com/iomaraa/iomaraa.github.io)           |[International News](https://github.com/iomaraa/PaperRocket)             |  
-| 18  |     Reema Alrayes    | [Tic Tac Toe](https://github.com/Reemarayes/reemarayes.github.io)           |[Qibla](https://github.com/Reemarayes/project_two)            |  
-| 19  |     Rehab Alsaadoun  | [Tic Tac Toe](https://github.com/rehabsaadoun/rehabsaadoun.github.io)           |---             |  
-| 20  |  Yasir Almuhtrish    | [Hoxin](https://github.com/yasser9947/yasser9947.github.io)           |[Trivia Game](https://github.com/yasser9947/pr2/)             |  
-| 21  |    Sarah Abuhaimed   | [Tic Tac Toe](https://github.com/SarahAbuhaimed/project1)           |[Parking Lot](https://github.com/SarahAbuhaimed/ParkingLot)             |
+| 6   |     Khuzam Shubbar   | [Minesweeper](https://github.com/khuzamas/project1)           |[Disney](https://github.com/khuzamas/project2)             |  
+| 7   |   Lamya Altuwairqi   | [Tic Tac Toe](https://github.com/lamyahamid/TIC-TAC-TOE)           |[Events](https://github.com/lamyahamid/Events)             |  
+| 8   |     Maram AlShalhoub | [Tic Tac Toe](https://github.com/maramalshalhoub/maramalshalhoub.github.io)           |[Architecture](https://github.com/maramalshalhoub/Architecture/)             |  
+| 9  |     Meshal Alqahtani | [Tic Tac Toe](https://github.com/Meshal505/Meshal505.github.io)           |[Advice](https://github.com/Meshal505/project2)             |  
+| 10  |     Mohammed Alhamad | [Tic Tac Toe](https://github.com/alhammadmh/alhammadmh.github.io)           |[Expenses Calculator](https://github.com/alhammadmh/project2)            |  
+| 11  |   Mortaja Alqassab   | [Timeline](https://github.com/mort8Q/timeline-inventions)           |[E-commerce](https://github.com/mort8Q/watermelon.git)             |  
+| 12  |      Muhammad Hakami | [Tic Tac Toe](https://github.com/MuhammadHakami/muhammadhakami.github.io)           |[Portfolio](https://github.com/MuhammadHakami/profile)             |  
+| 13  |      Munera Alhazza  | [Tic Tac Toe](https://github.com/muneraabdul/muneraabdul.github.io)           |[Events](https://github.com/muneraabdul/Events)            |  
+| 14  |     Nora Alkhunifer  | [Tic Tac Toe](https://github.com/norahX3X/Project-1-io)           |[Plants Info](https://github.com/norahX3X/Cactus2)             |  
+| 15  |      Noura AlHindi   | [Tic Tac Toe](https://github.com/Noura-alhindi/Noura-alhindi.github.io)           |[Recipes](https://github.com/Noura-alhindi/Food_Recipes)            |  
+| 16  |     Omar AlArifi     | [Tic Tac Toe](https://github.com/iomaraa/iomaraa.github.io)           |[International News](https://github.com/iomaraa/PaperRocket)             |  
+| 17  |     Reema Alrayes    | [Tic Tac Toe](https://github.com/Reemarayes/reemarayes.github.io)           |[Qibla](https://github.com/Reemarayes/project_two)            |  
+| 18  |     Rehab Alsaadoun  | [Tic Tac Toe](https://github.com/rehabsaadoun/rehabsaadoun.github.io)           |[Travel List](https://github.com/rehabsaadoun/project_2)             |  
+| 19  |  Yasir Almuhtrish    | [Hoxin](https://github.com/yasser9947/yasser9947.github.io)           |[Trivia Game](https://github.com/yasser9947/pr2/)             |  
+| 20  |    Sarah Abuhaimed   | [Tic Tac Toe](https://github.com/SarahAbuhaimed/project1)           |[Parking Lot](https://github.com/SarahAbuhaimed/ParkingLot)             |
 
 #### Group Projects 
 
