@@ -41,26 +41,45 @@ The typically daily format is as follows.
 
 #### Week One
 
-| Day |Lesson |
---- | --- 
-
+| Day |Lesson One | Lesson Two |
+--- | --- | ---
+2| [git](https://github.com/ship-of-the-desert/lesson-week_01-day_02-git) | [JavaScript](https://github.com/ship-of-the-desert/lesson-week_01-day_02-js)
+3| [JS Functions](https://github.com/ship-of-the-desert/lesson-week_01-day_03-js-functions)
+4|[JS Arrays](https://github.com/ship-of-the-desert/lesson-week_01-day_04-js-arrays) | [JS Loops](https://github.com/ship-of-the-desert/lesson-week_01-day_04-js-loops)
+5 |[JS Advance](https://github.com/ship-of-the-desert/lesson-week_01-day_05-js-advanced)  | [JS Objects](https://github.com/ship-of-the-desert/lesson-week_01-day_05-js-objects)
+| 
 #### Week Two
 
-| Day |Lesson |
---- | --- 
+| Day |Lesson One |Lesson Two| Exercises
+--|--|--| ---
+1 | [HTML](https://github.com/ship-of-the-desert/lesson-week_02-day_01-html)|[CSS](https://github.com/ship-of-the-desert/lesson-week_02-day_01-css-positioning) 
+2 | [Flexbox](https://github.com/ship-of-the-desert/hw_week_02_day_02_flexbox) - [Flexbox](https://github.com/ship-of-the-desert/lesson-week_02-day_02-flexbox) |  [Wireframes](https://github.com/ship-of-the-desert/lesson-week_02-day_02-wireframes-user-stories)
+3|[DOM](https://github.com/ship-of-the-desert/lesson-week_02-day_03-dom)
+4|[jQuery](https://github.com/ship-of-the-desert/lesson-week_02-day_04-jquery) - [jQuery Events](https://github.com/ship-of-the-desert/lesson-week_02-day_04-jquery-events)| [Bootstrap](https://github.com/ship-of-the-desert/lesson-week_02-day_04-css-bootstrap) |[jQuery Jedi](https://github.com/ship-of-the-desert/week-02-day-04-jquery-jedi-exercise)
+5||[Game of Zones](https://github.com/ship-of-the-desert/lab_week_02_day_05)
 
 ---
 ## Unit 2
 
 #### Week Four
 
-| Day |Lesson |
---- | --- 
+| Day |Lesson One |Lesson Two| Exercises
+--|--|--| ---
+1 |[Responsive Design](https://github.com/ship-of-the-desert/lesson-week_04-day_01-rwd)
+2|[Advanced JS](https://github.com/ship-of-the-desert/lesson-week_04-day_02-advanced-js) |[Object Oriented JS](https://github.com/ship-of-the-desert/lesson-week_04-day_02-oojs)|[JS OOP](https://github.com/ship-of-the-desert/lab-week_04-day_02-oojs)
+3|[Node](https://github.com/ship-of-the-desert/lesson-week_04-day_03-node) | [Advanced Methods](https://github.com/ship-of-the-desert/lesson-week_04-day_03-advanced-methods)
+4|[Ajax](https://github.com/ship-of-the-desert/lesson-week_04-day_04-ajax) |[API](https://github.com/ship-of-the-desert/hw_week_04_day_04_API)
+5| ||[promise restaurants](https://github.com/ship-of-the-desert/promise_restaurants)
 
 #### Week Five
 
-| Day |Lesson |
---- | --- 
+| Day |Lesson | Exercise
+--- | --- | ---
+1||[Budget Moduling](https://github.com/ship-of-the-desert/budget_moduling)
+2|[React Intro](https://github.com/ship-of-the-desert/react-intro-props-lesson)|[Film Lab](https://github.com/ship-of-the-desert/react-film-lab)
+3|[React States](https://github.com/ship-of-the-desert/week_05_states_react_all) | [Todo List](https://github.com/ship-of-the-desert/react_js_state_exercise)
+4|[Functional Components and React Life cycle](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios) |[Fruit List](https://github.com/ship-of-the-desert/react-fruit-list-in-class)
+5| |[React Film pt.4](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios/blob/master/08-film-4-apis.md)
 
 ---
 ## Unit 3
@@ -69,6 +88,10 @@ The typically daily format is as follows.
 
 | Day |Lesson |
 --- | --- 
+1|[Ruby Intro](https://github.com/ship-of-the-desert/lesson-week_07-day_01-ruby)
+2|[Ruby Array & Hashes](https://github.com/ship-of-the-desert/lesson-week_07-day_01-ruby)
+3|[Ruby Inheritance](https://github.com/ship-of-the-desert/lesson-week_07-day_03-ruby-inheritance)
+4|[SQL](https://github.com/ship-of-the-desert/relational-databases-sql-lesson)
 
 #### Week Eight
 
@@ -155,7 +178,6 @@ The typically daily format is as follows.
 | 2 |[React Film pt.1](https://github.com/ship-of-the-desert/react-intro-props-lesson/blob/master/12-film-1-components.md)|
 | 2 |[React Film pt.2](https://github.com/ship-of-the-desert/week_05_states_react_all/blob/master/08-film-2-state.md)|
 | 2 |[React Film pt.3](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios/blob/master/07-film-3-unidirectional.md)|
-| 2 |[React Film pt.4](https://github.com/ship-of-the-desert/lesson-week_05-day_04-functional-components-lifecycle-axios/blob/master/08-film-4-apis.md)|
 
 | Unit |Title/Url |
 --- | --- 
@@ -167,6 +189,8 @@ The typically daily format is as follows.
 
 ### Students Projects
 
+- [Project One Prompt](https://github.com/ship-of-the-desert/Project-1-Prompt)
+- [Project Two Prompt](https://github.com/ship-of-the-desert/Project-2-Prompt)
 
 | No. | Student|Project 1 Repo | Project 2 Repo | Project 4 Repo |
 --- | --- | --- | -- | -- 
