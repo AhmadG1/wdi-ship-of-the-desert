@@ -20,7 +20,7 @@ Welcome to WDI 4. This repository contains information and materials specific to
 
 
 ## Github
-We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#github-links) for the full list.
+We use Github for source code management. Every student will need an account, with all projects and assignments stored there. 
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
@@ -92,11 +92,13 @@ The typically daily format is as follows.
 2|[Ruby Array & Hashes](https://github.com/ship-of-the-desert/lesson-week_07-day_01-ruby)
 3|[Ruby Inheritance](https://github.com/ship-of-the-desert/lesson-week_07-day_03-ruby-inheritance)
 4|[SQL](https://github.com/ship-of-the-desert/relational-databases-sql-lesson)
-
+5|[Rails Intro](https://guides.rubyonrails.org/getting_started.html)
 #### Week Eight
 
-| Day |Lesson |
---- | --- 
+| Day |Lesson | Exercise
+--- | --- | ---
+1|[Rails One-To-Many](https://github.com/ship-of-the-desert/rails-blog-app-in-class)| [practice](https://github.com/ship-of-the-desert/rails-one-to-many-practice)
+2|[Rails Review]()
 
 ---
 ## Unit 4
@@ -150,7 +152,11 @@ The typically daily format is as follows.
 7|2|[Ruby Anagram Detector](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_02)
 7|3|[Fallout Hacking Game](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_03)
 7|4|[Stickers Shop](https://github.com/ship-of-the-desert/warmups/tree/master/week_07/day_04)
-7|5|[]()
+7|5|[Student Cipher](https://github.com/yasser9947/warmup)
+
+| Week |Day|Title/Url |
+--- | --- | ---
+8|1|[Roman Numbers](https://github.com/ship-of-the-desert/warmups/tree/master/week_08/day_01)
 
 ---
 
@@ -217,14 +223,14 @@ The typically daily format is as follows.
 
 #### Group Projects 
 
-| No. | Student One |Student Two| Student Three | Student Four | Project Repo |
---- | --- | --- | -- | -- | --
-1 | Ameerah | Mortaja | Norah AlHindi | --
-2 | Aceel | Maram | Yasir | --
-3 | Munera | Abdulaziz | Lamya |Nora Alkhunifer| 
-4 | Omar | Reema | Muhammad Hakami | Rehab
-5 | Sarah | Mohammed Alhamad | Amani | --
-6 | Meshal | Khuzam |Alhanouf | --
+| No. |Group Name| Student One |Student Two| Student Three | Student Four | Project Repo |
+--- | ---| --- | --- | -- | -- | --
+1 | EagleEye|Ameerah | Mortaja | Norah AlHindi | --
+2 | H3RO|Aceel | Maram | Yasir | --
+3 | Undefined|Munera | Abdulaziz | Lamya |Nora Alkhunifer| 
+4 | $$$$|Omar | Reema | Muhammad Hakami | Rehab
+5 | Supreme|Sarah | Mohammed Alhamad | Amani | --
+6 | I/O|Meshal | Khuzam |Alhanouf | --
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
