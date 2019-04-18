@@ -69,7 +69,7 @@ The typically daily format is as follows.
 2|[Advanced JS](https://github.com/ship-of-the-desert/lesson-week_04-day_02-advanced-js) |[Object Oriented JS](https://github.com/ship-of-the-desert/lesson-week_04-day_02-oojs)|[JS OOP](https://github.com/ship-of-the-desert/lab-week_04-day_02-oojs)
 3|[Node](https://github.com/ship-of-the-desert/lesson-week_04-day_03-node) | [Advanced Methods](https://github.com/ship-of-the-desert/lesson-week_04-day_03-advanced-methods)
 4|[Ajax](https://github.com/ship-of-the-desert/lesson-week_04-day_04-ajax) |[API](https://github.com/ship-of-the-desert/hw_week_04_day_04_API)
-5| ||[promise restaurants](https://github.com/ship-of-the-desert/promise_restaurants)
+5|[promise restaurants](https://github.com/ship-of-the-desert/promise_restaurants)
 
 #### Week Five
 
