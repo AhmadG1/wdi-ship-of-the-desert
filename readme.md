@@ -56,7 +56,7 @@ The typically daily format is as follows.
 2 | [Flexbox](https://github.com/ship-of-the-desert/hw_week_02_day_02_flexbox) - [Flexbox](https://github.com/ship-of-the-desert/lesson-week_02-day_02-flexbox) |  [Wireframes](https://github.com/ship-of-the-desert/lesson-week_02-day_02-wireframes-user-stories)
 3|[DOM](https://github.com/ship-of-the-desert/lesson-week_02-day_03-dom)
 4|[jQuery](https://github.com/ship-of-the-desert/lesson-week_02-day_04-jquery) - [jQuery Events](https://github.com/ship-of-the-desert/lesson-week_02-day_04-jquery-events)| [Bootstrap](https://github.com/ship-of-the-desert/lesson-week_02-day_04-css-bootstrap) |[jQuery Jedi](https://github.com/ship-of-the-desert/week-02-day-04-jquery-jedi-exercise)
-5||[Game of Zones](https://github.com/ship-of-the-desert/lab_week_02_day_05)
+5|[Game of Zones](https://github.com/ship-of-the-desert/lab_week_02_day_05)
 
 ---
 ## Unit 2
