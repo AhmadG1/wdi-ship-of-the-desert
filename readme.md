@@ -98,7 +98,10 @@ The typically daily format is as follows.
 | Day |Lesson | Exercise
 --- | --- | ---
 1|[Rails One-To-Many](https://github.com/ship-of-the-desert/rails-blog-app-in-class)| [practice](https://github.com/ship-of-the-desert/rails-one-to-many-practice)
-2|[Rails Review]()
+2|[Rails Review](#)
+3|[Rails Many-through](https://github.com/ship-of-the-desert/rails-doctor-app)|[React with Rails](https://github.com/ship-of-the-desert/react-frontend-for-rails-doctor-app)
+4|[Git Collaboration](https://github.com/ship-of-the-desert/git_collabo)|[Music Battle](https://github.com/ship-of-the-desert/comp1)
+5|[Device and Many-to-Many](https://github.com/ship-of-the-desert/rails-has-and-belongs-to-many-to-many-devise)
 
 ---
 ## Unit 4
@@ -157,6 +160,7 @@ The typically daily format is as follows.
 | Week |Day|Title/Url |
 --- | --- | ---
 8|1|[Roman Numbers](https://github.com/ship-of-the-desert/warmups/tree/master/week_08/day_01)
+8|3|[Rails Practice](https://github.com/ship-of-the-desert/warmups/tree/master/week_08/day_03)
 
 ---
 
@@ -228,7 +232,7 @@ The typically daily format is as follows.
 1 | EagleEye|Ameerah | Mortaja | Norah AlHindi | --
 2 | H3RO|Aceel | Maram | Yasir | --
 3 | Undefined|Munera | Abdulaziz | Lamya |Nora Alkhunifer| 
-4 | $$$$|Omar | Reema | Muhammad Hakami | Rehab
+4 | ActRec|Omar | Reema | Muhammad Hakami | Rehab
 5 | Supreme|Sarah | Mohammed Alhamad | Amani | --
 6 | I/O|Meshal | Khuzam |Alhanouf | --
 
