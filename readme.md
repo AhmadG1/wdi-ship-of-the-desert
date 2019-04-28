@@ -93,6 +93,7 @@ The typically daily format is as follows.
 3|[Ruby Inheritance](https://github.com/ship-of-the-desert/lesson-week_07-day_03-ruby-inheritance)
 4|[SQL](https://github.com/ship-of-the-desert/relational-databases-sql-lesson)
 5|[Rails Intro](https://guides.rubyonrails.org/getting_started.html)
+
 #### Week Eight
 
 | Day |Lesson | Exercise
@@ -162,6 +163,9 @@ The typically daily format is as follows.
 8|1|[Roman Numbers](https://github.com/ship-of-the-desert/warmups/tree/master/week_08/day_01)
 8|3|[Rails Practice](https://github.com/ship-of-the-desert/warmups/tree/master/week_08/day_03)
 
+| Week |Day|Title/Url |
+--- | --- | ---
+10|1|[Javascript Review](https://github.com/ship-of-the-desert/warmups/tree/master/week_10)
 ---
 
 ### Homeworks
@@ -229,12 +233,12 @@ The typically daily format is as follows.
 
 | No. |Group Name| Student One |Student Two| Student Three | Student Four | Project Repo |
 --- | ---| --- | --- | -- | -- | --
-1 | EagleEye|Ameerah | Mortaja | Norah AlHindi | --
-2 | H3RO|Aceel | Maram | Yasir | --
-3 | Undefined|Munera | Abdulaziz | Lamya |Nora Alkhunifer| 
-4 | ActRec|Omar | Reema | Muhammad Hakami | Rehab
-5 | Supreme|Sarah | Mohammed Alhamad | Amani | --
-6 | I/O|Meshal | Khuzam |Alhanouf | --
+1 | EagleEye|Ameerah | Mortaja | Norah AlHindi | |[MYM](https://github.com/mort8Q/MYM)
+2 | H3RO|Aceel | Maram | Yasir | |[CareDom](https://github.com/yasser9947/Project3-/tree/dev)
+3 | Undefined|Munera | Abdulaziz | Lamya |Nora Alkhunifer| [Greens](https://github.com/norahX3X/Greens)
+4 | ActRec|Omar | Reema | Muhammad Hakami | Rehab | [SpecialNeeds](https://github.com/iomaraa/SpecialNeeds)
+5 | Supreme|Sarah | Mohammed Alhamad | Amani | |[Courses Registration System](https://github.com/alhammadmh/projetc_3)
+6 | I/O|Khuzam  | Meshal |Alhanouf | |[Fridge Storage](https://github.com/khuzamas/Project3)
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
