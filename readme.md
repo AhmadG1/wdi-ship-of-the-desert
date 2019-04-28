@@ -111,6 +111,7 @@ The typically daily format is as follows.
 
 | Day |Lesson |
 --- | --- 
+1|[Express Intro](https://github.com/ship-of-the-desert/node-express-intro)
 
 #### Week Eleven
 
