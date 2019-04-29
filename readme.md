@@ -112,6 +112,7 @@ The typically daily format is as follows.
 | Day |Lesson |
 --- | --- 
 1|[Express Intro](https://github.com/ship-of-the-desert/node-express-intro)
+2|[MongoDB & Mongoose](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/README.md)
 
 #### Week Eleven
 
