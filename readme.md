@@ -110,10 +110,10 @@ The typically daily format is as follows.
 #### Week Ten
 
 | Day |Lesson | Exercise
---- | --- 
+--- | --- | ---
 1|[Express Intro](https://github.com/ship-of-the-desert/node-express-intro)|[Fruits](https://github.com/ship-of-the-desert/node-express-fruits-crud-with-ejs)
 2|[MongoDB & Mongoose](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/README.md)|[Mongo Lab](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/exercises/bounty.md)
-3|[Mongoose references](https://github.com/ship-of-the-desert/node-express-mongoose-references-smoothie)
+3|[CRUD Mongoose](https://github.com/ship-of-the-desert/week_10_day_03_CRUD-Mongoose_express)|[Mongoose references](https://github.com/ship-of-the-desert/node-express-mongoose-references-smoothie)
 
 #### Week Eleven
 
@@ -205,6 +205,7 @@ The typically daily format is as follows.
 | Unit |Title/Url |
 --- | --- 
 4|[Driver Management pt.1](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/driver.md)
+4|[Driver Management pt.2](https://github.com/ship-of-the-desert/Driver_management_contd)
 
 
 ---
