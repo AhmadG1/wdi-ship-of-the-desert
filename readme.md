@@ -109,10 +109,11 @@ The typically daily format is as follows.
 
 #### Week Ten
 
-| Day |Lesson |
+| Day |Lesson | Exercise
 --- | --- 
-1|[Express Intro](https://github.com/ship-of-the-desert/node-express-intro)
-2|[MongoDB & Mongoose](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/README.md)
+1|[Express Intro](https://github.com/ship-of-the-desert/node-express-intro)|[Fruits](https://github.com/ship-of-the-desert/node-express-fruits-crud-with-ejs)
+2|[MongoDB & Mongoose](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/README.md)|[Mongo Lab](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/exercises/bounty.md)
+3|[Mongoose references](https://github.com/ship-of-the-desert/node-express-mongoose-references-smoothie)
 
 #### Week Eleven
 
@@ -200,6 +201,11 @@ The typically daily format is as follows.
 |3|[Ruby Arrays + Loops](https://github.com/ship-of-the-desert/hw_week_07_day_01_Ruby_Loops)|
 |3|[Ruby MTA](https://github.com/ship-of-the-desert/hw_week_07_day_02_ruby_MTA)|
 |3|[Ruby Classes](https://github.com/ship-of-the-desert/hw_week_07_day_03_ruby_Classes)|
+
+| Unit |Title/Url |
+--- | --- 
+4|[Driver Management pt.1](https://github.com/ship-of-the-desert/week_10_day_2_MongoDB-and-Mongoose/blob/master/driver.md)
+
 
 ---
 
