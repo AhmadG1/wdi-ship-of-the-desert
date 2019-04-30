@@ -214,6 +214,7 @@ The typically daily format is as follows.
 
 - [Project One Prompt](https://github.com/ship-of-the-desert/Project-1-Prompt)
 - [Project Two Prompt](https://github.com/ship-of-the-desert/Project-2-Prompt)
+- [Project Three Prompt](https://github.com/ship-of-the-desert/Project-3-Prompt)
 
 | No. | Student|Project 1 Repo | Project 2 Repo | Project 4 Repo |
 --- | --- | --- | -- | -- 
